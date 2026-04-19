@@ -1,3 +1,5 @@
+HànhViTool là một công cụ cho giáo viên NV để dễ tạo bảng Excel về hành vi của học sinh.
+
 ------------------- WINDOWS ------------------------
 
 Cài đặt
